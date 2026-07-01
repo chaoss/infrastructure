@@ -1,12 +1,12 @@
-# CollectOSS Project Governance
+# CHAOSS Infrastructure Team Project Governance
 
-CollectOSS is dedicated to building and improving a data collection, transformation, and serving backend for open source contributor activity. CollectOSS will operate as a project within the CHAOSS Organization, which is a member of the Linux Foundation. This governance explains how the project is run.
+The CHAOSS Infrastructure Team is dedicated to managing shared CHAOSS Community infrastructure as the technical administrators of CHAOSS. The CHAOSS Infrastructure Team will operate as a working group within the CHAOSS Organization, which is a member of the Linux Foundation. This governance explains how the team is run.
 
-- [CollectOSS Project Governance](#collectoss-project-governance)
+- [The CHAOSS Infrastructure Team Project Governance](#The CHAOSS Infrastructure Team-project-governance)
   - [Values](#values)
-  - [Maintainers](#maintainers)
-    - [Becoming a Maintainer](#becoming-a-maintainer)
-    - [Removing a Maintainer](#removing-a-maintainer)
+  - [Team Members](#Team Members)
+    - [Becoming a Team Member](#becoming-a-Team Member)
+    - [Removing a Team Member](#removing-a-Team Member)
   - [Meetings](#meetings)
   - [CHAOSS Resources](#chaoss-resources)
   - [Code of Conduct Committee](#code-of-conduct-committee)
@@ -17,7 +17,7 @@ CollectOSS is dedicated to building and improving a data collection, transformat
 
 ## Values
 
-The CollectOSS and its leadership embrace the following values:
+The CHAOSS Infrastructure Team embraces the following values:
 
 * Openness: Communication and decision-making happens in the open and is discoverable for future
   reference. As much as possible, all discussions and work take place in public
@@ -33,122 +33,75 @@ The CollectOSS and its leadership embrace the following values:
   participation, and there is a clear path up the contributor ladder into leadership
   positions.
 
-## Maintainers
+## Team Members
 
-The current maintainers can be found in [MAINTAINERS.md](./MAINTAINERS.md).  Maintainers collectively manage the project's resources and contributors.
+The current team members can be found in [MEMBERS.md](./MEMBERS.md). Team members collectively steward the CHAOSS Community infrastructure and forms the governing body for shared CHAOSS commmunity infrastructure. 
 
-CollectOSS Maintainers have merge approval rights to the [project GitHub repository](https://github.com/chaoss/collectoss) and all other CollectOSS project repositories.
+The CHAOSS Infrastructure Team members have merge approval rights to the [team GitHub repository](https://github.com/chaoss/infrastructure) and any other repositories later created by or assigned to The CHAOSS Infrastructure Team.
 
-This privilege is granted with some expectation of responsibility: maintainers
-are people who care about the CollectOSS project and want to help it grow and
-improve. A maintainer is not just someone who can make changes, but someone who
-has demonstrated their ability to collaborate with the team, get the most
-knowledgeable people to review code and docs, contribute high-quality code, and
-follow through to fix issues (in code or tests).
+### Becoming a Team Member
 
-A maintainer is a contributor to the project's success and a citizen helping
-the project succeed.
+Team members are appointed by the CHAOSS Governing Board. There is no other way to become a CHAOSS Infrastructure Team Member
 
-The collective team of all Maintainers is known as the Maintainer Council, which
-is the governing body for the project.
+### Removing a Team Member
 
-### Becoming a Maintainer
-
-To become a Maintainer you need to demonstrate the following:
-
-  * commitment to the project:
-    * participate in discussions, contributions, code and documentation reviews
-      for 6 months or more,
-    * perform reviews for at least 4 non-trivial pull requests,
-    * contribute at least 3 non-trivial pull requests and have them merged,
-  * ability to write quality code and/or documentation,
-  * ability to collaborate with the team,
-  * understanding of how the team works (policies, processes for testing and code review, etc),
-  * understanding of the project's code base and coding and documentation style,
-  * dedication to maintaining CollectOSS as a shared project for the CHAOSS community.
-
-A new Maintainer must be proposed by an existing Maintainer by posting an issue in the project repository. A simple majority vote of existing Maintainers approves the application.  Maintainers nominations will be evaluated without prejudice to employer or demographics.
-
-Maintainers who are selected will be granted the necessary GitHub rights,
-and invited to the private maintainer slack channel.
-
-### Removing a Maintainer
-
-Maintainers may resign at any time if they feel that they will not be able to
+Team Members may resign at any time if they feel that they will not be able to
 continue fulfilling their project duties.
 
-Maintainers may also be removed after being inactive, failure to fulfill their 
-Maintainer responsibilities, violating the Code of Conduct, or other reasons.
+Team Members may also be removed after being inactive, failure to fulfill their 
+Team Member responsibilities, violating the CHAOSS Code of Conduct, or other reasons.
 Inactivity is defined as a period of very low or no activity in the project 
-for a year or more, with no definite schedule to return to full Maintainer 
+for a year or more, with no definite schedule to return to full Team Member 
 activity.
 
-A Maintainer may be removed at any time by a 2/3 vote of the remaining maintainers.
+A Team Member may be removed at any time by the CHAOSS Governing Board.
 
-Depending on the reason for removal, a Maintainer may be converted to Emeritus
-status.  Emeritus Maintainers will still be consulted on some project matters,
-and can be rapidly returned to Maintainer status if their availability changes.
 
-## Meetings
+<!-- ## Meetings
 
-Time zones permitting, Maintainers are expected to participate in the public
+Time zones permitting, Team Members are expected to participate in the public
 developer meeting, which occurs every two weeks according to the CHAOSS calendar.  
 
-Maintainers will also have closed meetings in order to discuss security reports
-or reports from the CHAOSS Code of Conduct Committee.  Such meetings should be scheduled by any Maintainer on receipt of a security issue or CoCC message.  All current Maintainers must be invited to such closed meetings, except for any Maintainer who is accused of a CoC violation.
+Team Members will also have closed meetings in order to discuss security reports
+or reports from the CHAOSS Code of Conduct Committee.  Such meetings should be scheduled by any Team Member on receipt of a security issue or CoCC message.  All current Team Members must be invited to such closed meetings, except for any Team Member who is accused of a CoC violation.
 
 ## CHAOSS Resources
 
-Any Maintainer may suggest a request for CHAOSS resources, either in an issue, or during a meeting.  A simple majority of Maintainers approves the request.  The Maintainers may also choose to delegate working with CHAOSS to non-Maintainer community members, who will then be added to the [MAINTAINERS.md file](./MAINTAINERS.md) with that special status.
+Any Team Member may suggest a request for CHAOSS resources, either in an issue, or during a meeting.  A simple majority of Team Members approves the request.  The Team Members may also choose to delegate working with CHAOSS to non-Team Member community members, who will then be added to the [Team MemberS.md file](./Team MemberS.md) with that special status. -->
 
 ## Code of Conduct Committee
 
-The CollectOSS project adheres to the [CHAOSS Code of Conduct](https://chaoss.community/code-of-conduct/)(CoC).  As such, community members needing to report a violation of the CoC should report it directly to the CHAOSS Code Of Conduct Committee (CoCC).
+The The CHAOSS Infrastructure Team project adheres to the [CHAOSS Code of Conduct](https://chaoss.community/code-of-conduct/)(CoC).  As such, community members needing to report a violation of the CoC should report it directly to the CHAOSS Code Of Conduct Committee (CoCC).
 
-The Maintainers will work with the CoCC on any reports which require action by the project. 
+The Team Members will work with the CoCC on any reports which require action by the team. 
 
 ## Security Response Team
 
-The Maintainers will appoint a Security Response Team to handle security reports.
-This committee may simply consist of the Maintainer Council themselves.  If this
-responsibility is delegated, the Maintainers will appoint a team of at least two 
-contributors to handle it.  The Maintainers will review who is assigned to this
+The Team Members will appoint a Security Response Team to handle security reports.
+This committee may simply consist of the Team Members themselves.  If this
+responsibility is delegated, the Team Members will appoint a team of at least two 
+contributors to handle it.  The Team Members will review who is assigned to this
 at least once a year.
 
-The Security Response Team is responsible for handling all reports of security
-holes and breaches according to the [security policy](./SECURITY.md).
+<!-- The Security Response Team is responsible for handling all reports of security
+holes and breaches according to the [security policy](./SECURITY.md). -->
 
 ## Voting
 
-While most business in CollectOSS is conducted by "[lazy consensus](https://community.apache.org/committers/lazyConsensus.html)", 
-periodically the Maintainers may need to vote on specific actions or changes.
-A vote can be taken on the project's public Slack channel (#wg-collectoss-8knot in the [CHAOSS Slack](https://chaoss.community/kb-getting-started/)) or 
-the private Maintainer Slack channel for security or conduct matters.  
-Votes may also be taken at the biweekly developer meeting.  Any Maintainer may
-demand a vote be taken.
+While most business in The CHAOSS Infrastructure Team is conducted by "[lazy consensus](https://community.apache.org/committers/lazyConsensus.html)", 
+periodically the Team Members may need to vote on specific actions or changes.
+A vote can be taken on the project's public Slack channel (#community-infrastructure in the [CHAOSS Slack](https://chaoss.community/kb-getting-started/)) or 
+the private Team Member Slack channel for security or conduct matters.  
+Votes may also be taken at the biweekly developer meeting.  Any Team Member may
+demand a vote be taken on any issue.
 
-Most votes require a simple majority of all Maintainers to succeed, except where
+Most votes require a simple majority of all Team Members to succeed, except where
 otherwise noted.  Two-thirds majority votes mean at least two-thirds of all 
-existing maintainers.
-
-## Transitional Period
-
-There will be a Transitional Period for six to eight months after the CollectOSS project is launched.  During that transitional period, the project governance will be modified in the following ways in order to build a new Maintainer Council.
-
-The project will be governed by the [Transitional Maintainers](./MAINTAINERS.md), who may or may not meet the standard qualifications for a Maintainer. 
-* The Transitional Maintainers will be seeking to appoint new Maintainers based on an optimitistic and flexible evaluation of their contributions during the first months of the project.  This will generally include "crediting" contributors for contributions made to the Augur project.  
-* Newly appointed Maintainers do not need to meet the full qualifications for Maintainer above (particularly the 6 month requirement), and will be approved by a fast-track process.
-
-The following will happen at the end of the Transitional Period:
-
-1. The Maintainers to date will vote to end the Transition.  
-2. The Maintainers will update the Maintainer requirements based on the early project experience.
-3. Any Transitional Maintainers who do not qualify as, or do not wish to be, long-term Maintainers will step down, and the remaining ones will be converted to long-term Maintainers.  
-4. This section will then be removed from the Governance.
+current Team Members.
 
 ## Modifying this Charter
 
 Changes to this Governance and its supporting documents may be approved by 
-a 2/3 vote of the Maintainers.
+a 2/3 vote of the Team Members.
 
-This governance document was created based on the template available at https://github.com/cncf/project-template/blob/main/GOVERNANCE-maintainer.md
+This governance document was created based on the template available at https://github.com/cncf/project-template/blob/main/GOVERNANCE-maintainer.md and the adaptations to it from the [CollectOSS project governance](https://github.com/chaoss/CollectOSS/blob/main/GOVERNANCE.md).
