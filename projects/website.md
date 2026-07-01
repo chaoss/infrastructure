@@ -23,4 +23,13 @@ This phase mostly (but not completely) addresses the goals of objective 1. It ha
 
 Status: In Progress
 
-This phase helps stabilize the site and introduce some nice to have features that 
+This phase helps stabilize the website infrastructure (moving out of a docker container to a more managed environment) and introduce some nice to have management features that the docker container would require us to largely do manually, such as:
+- easy backup and restore
+- separate development and production sites with easy copying between them.
+- security updates and better monitoring
+- support available from the managed provider should that be needed
+
+These improvements should allow CHAOSS community leaders with administrative logins to wordpress to feel more confident in their ability to make changes without breaking things, allowing us to embark on projects such as:
+- cleaning up old plugins
+- keeping the site updated and secure
+- trying bolder, new ideas
