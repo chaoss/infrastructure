@@ -16,7 +16,7 @@ This was part of the reason for the creation of the Infrastructure team - to cre
 ## Phase 1: Adoption
 Status: Complete
 
-This phase mostly addresses objective 1 and successfully brought the CHAOSS website under the control of one member of the infrastructure committee (Adrian) using donated infrastructure. This moved the CHAOSS website from its previous hosting provider into a self-hosted docker container. This was done under relatively compressed circumstances to preserve website uptime and buy time for future migrations.
+This phase mostly (but not completely) addresses the goals of objective 1. It has successfully brought the CHAOSS website under the control of one member of the infrastructure committee (Adrian). This moved the CHAOSS website from its previous hosting provider into a self-hosted docker container whose infrastructure is being donated to CHAOSS. This was done under relatively compressed circumstances to preserve website uptime and buy time for future migrations. The remaining piece of objective 1 (to ensure anyone on the infra team has the ability to control the infrastructure) will happen in a later stage as the infrastructure comes under a greater degree of community control.
 
 
 ## Phase 2: Stability
