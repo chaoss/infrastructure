@@ -51,3 +51,9 @@ Ultimately the end goal is to transition the website over to a static website, h
 - Static websites have more hosting options available for much cheaper - often for free (i.e. Github Pages)
 
 
+This phase is by far the largest/longest as any website solution that aims to replace the CHAOSS wordpress site should be as 1:1 of a replacement as possible. This means meeting at least the following criteria (this list is not exhaustive and subject to change per the governance section above):
+- Ensuring the new site looks and feels substantially the same as the current site (i.e. using similar-looking CSS styling and color schemes)
+- Ensuring all images, documents, and other assets available for viewing or download on the site are present on the new site
+- 1:1 URL parity - all links to website pages should work as they did with wordpress, or at least redirect users to the same page as the wordpress link would have
+- support for custom redirects is needed too - the CHAOSS site currently uses redirects as a form of URl shortener for linking to the current years meeting notes document (and other pages)
+- Ability to support building the site from content that is spread across many git repos. We want to avoid having an impact on existing working groups who maintain subsets of website content in their own repos (like the data science WG's practitioner guides). Any new site that aims to replace wordpress needs to support using this content as-is
