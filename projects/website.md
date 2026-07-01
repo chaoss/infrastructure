@@ -33,3 +33,21 @@ These improvements should allow CHAOSS community leaders with administrative log
 - cleaning up old plugins
 - keeping the site updated and secure
 - trying bolder, new ideas
+
+
+## Phase 3: Long term
+
+While Phase 2 above puts us in a great spot for the website, this is still not ideal due to:
+- Wordpress itself requires an additional login step for contributors to use it (as well as account creation)
+- The wordpress contribution workflow is different from a typical "fork and pull request" contributors may be used to
+- The Infrastructure from phases 1 and 2 that support the site rely on donated infrastructure controlled by one member of the Infra team
+
+Ultimately the end goal is to transition the website over to a static website, hosted on github pages. This has been discussed in a few different CHAOSS community calls in early-mid 2026 and has many benefits:
+- Lower confusion with how to use wordpress plugins
+- Fewer login steps (can use existing github account)
+- Website contribution workflow can be the same as contributing to any other working group via the github pull request flow
+- Much of the content from the current wordpress site is already being fetched from git repos as static content anyway (such as the code of conduct and CHAOSScon pages)
+- Wordpress is a very common target for automated bot-driven website takeovers, not using it would help keep the site secure
+- Static websites have more hosting options available for much cheaper - often for free (i.e. Github Pages)
+
+
