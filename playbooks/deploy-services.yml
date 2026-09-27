@@ -1,0 +1,12 @@
+---
+- name: Deploy services
+  hosts: [core]
+  # gather_facts: true
+  vars:
+    deploy_foo: true
+  tasks:
+    - name: Deploy foo
+      ansible.builtin.include_role:
+        name: foo
+        tasks_from: deploy
+      when: deploy_foo
